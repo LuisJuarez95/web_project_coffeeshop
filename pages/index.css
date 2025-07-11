@@ -175,3 +175,7 @@
   display: flex;
   justify-content: space-between;
 }
+
+.recipes_paragraph {
+  margin: 0;
+}
